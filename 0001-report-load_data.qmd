@@ -1,0 +1,12 @@
+---
+title: "Load Data"
+jupyter: python3
+---
+# Посмотрим на данные
+
+```{python}
+import pandas as pd
+
+data = pd.read_csv("practice_cleaned.csv")
+data
+```
