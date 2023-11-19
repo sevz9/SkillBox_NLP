@@ -5,6 +5,8 @@
 # And except this
 !/src/
 !**.qmd
+!/reports/
+!models_metrics/
 !README.md
 !pyproject.toml
 !pixi.toml

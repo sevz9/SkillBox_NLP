@@ -1,0 +1,13 @@
+quarto---
+title: "Load Data"
+jupyter: python3
+---
+# Посмотрим на данные
+
+
+```{python}
+import pandas as pd
+
+data = pd.read_csv("C:\Users\vsevo\MKN\skillbox_nlp-vsevolod-lavrov\data\practice_cleaned.csv")
+data
+```
