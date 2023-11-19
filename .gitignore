@@ -6,7 +6,7 @@
 !/src/
 !**.qmd
 !/reports/
-!models_metrics/
+!/models_metrics/
 !README.md
 !pyproject.toml
 !pixi.toml
