@@ -5,6 +5,8 @@
 # And except this
 !/src/
 !**.qmd
+!**.csv
+!**.html
 !/reports/
 !/models_metrics/
 !README.md
